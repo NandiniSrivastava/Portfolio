@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "images",
+			"path": "../onedrive/OneDrive - UPES/desktop/portfolio/images"
+		},
+		{
+			"name": "Personal-portfolio",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "Personal-portfolio"
+	}
+}
